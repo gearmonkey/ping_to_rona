@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "[your extension name here]",
-    "description": "[your extension description here]",
+    "name": "itsnotapingdemic",
+    "description": "It's not a pingdemic, it's the outcome of broad community exposure to an epidemic. Fix your web with this handy extension.",
     "version": "1.0",
     "content_scripts": [
         {
